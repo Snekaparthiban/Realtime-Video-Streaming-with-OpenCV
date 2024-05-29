@@ -7,6 +7,9 @@ How to Use:
 4.Stop the Program: Press the "q" key on your keyboard to stop the video capture and display.
 
 
+OUTPUT FOR THE VIDEOSTREAMING:
+
+
 
 
 
