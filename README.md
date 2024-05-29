@@ -1,4 +1,6 @@
-This Python program demonstrates real-time video capture and display using OpenCV. 
+Realtime-Video-Streaming-with-OpenCV
+
+          This Python program demonstrates real-time video capture and display using OpenCV. 
 How to Use:
 
 1.Install OpenCV: Ensure you have OpenCV installed using "pip install opencv-python" in your terminal.
