@@ -1,4 +1,4 @@
-Realtime-Video-Streaming-with-OpenCV
+Realtime Video Streaming with OpenCV
 
           This Python program demonstrates real-time video capture and display using OpenCV. 
 How to Use:
